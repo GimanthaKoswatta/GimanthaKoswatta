@@ -12,7 +12,7 @@
  
  🔭 I’m currently Undergraduate in **Software Engineering**
  
- 🌱 I’m currently learning **React, Dart, MongoDB**
+ 🌱 I’m currently learning **UI/UX,React, Dart, MongoDB**
 
  📫 How to reach me **www.gimanthakoswatta.com**
 
